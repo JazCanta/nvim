@@ -15,3 +15,4 @@ require("jazwork.plugins.autopairs")
 require("jazwork.plugins.treesitter")
 require("jazwork.plugins.gitsigns")
 require("jazwork.plugins.toggleterm")
+-- teset
